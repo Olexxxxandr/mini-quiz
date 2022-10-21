@@ -1,0 +1,13 @@
+.container {
+    text-decoration: none;
+    list-style: none;
+}
+
+.quiz {
+    padding: 50px;
+    border-radius: 15px;
+    height: 500px;
+    background-color:tan;
+    max-width: 1240px;
+    margin: 200px auto;
+}
